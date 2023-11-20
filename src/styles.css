@@ -90,6 +90,47 @@ p {
     background-color: white; 
 }
 
+.profile-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: white;
+    color: black;
+
+    border-radius: 30px;
+    width: 200px;
+    height: 55px;
+
+    font-size: 20pt;
+
+    margin-top: 10px;
+
+    box-shadow: 0 6px 20px 0 rgba(0,0,0,0.2);
+    width: 40%;
+}
+
+.btn-icon {
+    margin-top: -5px;
+}
+
+.btn-area {
+    padding: 10px;
+    /* Change text color to dark blue (#232936) */
+    filter: invert(15%) sepia(9%) saturate(1580%) hue-rotate(183deg) brightness(95%) contrast(96%);
+}
+
+.btn-area:hover {
+    /* Change text color to coral (#ff7f50) */
+    filter: invert(61%) sepia(60%) saturate(1744%) hue-rotate(326deg) brightness(102%) contrast(101%);
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 a {
     text-decoration: none;
     color: inherit;
