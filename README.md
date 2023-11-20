@@ -1,3 +1,3 @@
-# web-portfolio
+# Matthew Blake's Portfolio
 
-View sample page at www.blake-tech.com
+Live at www.blake-tech.com
