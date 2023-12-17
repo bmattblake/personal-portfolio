@@ -54,7 +54,7 @@ h1 {
     background-color: white;
 }
 
-    /* center mobile text */
+/* center mobile text */
 @media (max-width:767px) {
     .projects-text {
         text-align: center !important;
@@ -100,6 +100,7 @@ p {
 
     border-radius: 30px;
     width: 275px;
+    
     height: 55px;
 
     font-size: 20pt;
@@ -145,6 +146,9 @@ p {
     }
     .btn-area {
         padding: 0px;
+    }
+    .profile-btn {
+        width: 200px;
     }
 }
 
