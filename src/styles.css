@@ -3,17 +3,7 @@ body {
     background-color: #1c1f26;
 }
 
-.contact {
-    height: 40vh;
 
-    background-color: black;
-    color: white;
-
-    display: flex;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-}
 
 .email {
     display: flex;
@@ -54,6 +44,30 @@ h1 {
     background-color: white;
 }
 
+.contact {
+    /*height: 40vh;*/
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    background-color: #1c1f26;
+    color: white;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.form-group {
+    padding-bottom: 30px;
+}
+
+.contact-form {
+    width: 25vw;
+    padding: 30px;
+
+    background-color: #232936;
+    border-radius: 30px;
+}
 /* center mobile text */
 @media (max-width:767px) {
     .projects-text {
