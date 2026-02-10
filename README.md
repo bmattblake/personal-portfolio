@@ -1,3 +1,3 @@
 # Matthew Blake's Portfolio
 
-Live at www.blake-tech.com
+This code repository is retired. Web app has been moved to [https://github.com/bmattblake/personal-portfolio-frontend](https://github.com/bmattblake/personal-portfolio-frontend).
