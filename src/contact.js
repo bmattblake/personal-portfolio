@@ -1,3 +1,4 @@
+/*
 document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('contactForm').addEventListener('submit', async function(e) {
         e.preventDefault();
@@ -30,3 +31,4 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 });
+*/
